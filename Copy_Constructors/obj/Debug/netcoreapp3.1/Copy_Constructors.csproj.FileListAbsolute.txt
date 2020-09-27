@@ -1,0 +1,13 @@
+D:\C Projects\Copy_Constructors\bin\Debug\netcoreapp3.1\Copy_Constructors.exe
+D:\C Projects\Copy_Constructors\bin\Debug\netcoreapp3.1\Copy_Constructors.deps.json
+D:\C Projects\Copy_Constructors\bin\Debug\netcoreapp3.1\Copy_Constructors.runtimeconfig.json
+D:\C Projects\Copy_Constructors\bin\Debug\netcoreapp3.1\Copy_Constructors.runtimeconfig.dev.json
+D:\C Projects\Copy_Constructors\bin\Debug\netcoreapp3.1\Copy_Constructors.dll
+D:\C Projects\Copy_Constructors\bin\Debug\netcoreapp3.1\Copy_Constructors.pdb
+D:\C Projects\Copy_Constructors\obj\Debug\netcoreapp3.1\Copy_Constructors.csprojAssemblyReference.cache
+D:\C Projects\Copy_Constructors\obj\Debug\netcoreapp3.1\Copy_Constructors.AssemblyInfoInputs.cache
+D:\C Projects\Copy_Constructors\obj\Debug\netcoreapp3.1\Copy_Constructors.AssemblyInfo.cs
+D:\C Projects\Copy_Constructors\obj\Debug\netcoreapp3.1\Copy_Constructors.csproj.CoreCompileInputs.cache
+D:\C Projects\Copy_Constructors\obj\Debug\netcoreapp3.1\Copy_Constructors.dll
+D:\C Projects\Copy_Constructors\obj\Debug\netcoreapp3.1\Copy_Constructors.pdb
+D:\C Projects\Copy_Constructors\obj\Debug\netcoreapp3.1\Copy_Constructors.genruntimeconfig.cache
